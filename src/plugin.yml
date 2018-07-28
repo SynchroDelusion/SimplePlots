@@ -1,0 +1,5 @@
+api-version: 1.13
+name: SimplePlots
+version: 0.1
+author: SynchroDelusion
+main: synchrodelusion.simpleplots.main.SimplePlots
